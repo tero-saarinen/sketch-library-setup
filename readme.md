@@ -15,36 +15,62 @@ Project is created with:
 ## Content
 Libs directory contains the sketch libraries.
 
+### Colors
+
 `libs/library-colors.sketch`
 
 ![library-colors](img/library-colors.png)
 
+---
+
+### Icons
+
 `libs/library-icons.sketch`
 
 ![library-icons](img/library-icons.png)
+
+---
+
+### Fonts
 
 `libs/library-font-system.sketch`
 
 ![fonts-white](img/fonts-white.png)
 ![fonts-gray-swatch3](img/fonts-gray-swatch3.png)
 
+---
+
+### Components
+
 `libs/library-components.sketch`
 
 ### Dark theme
 
-![constructors-dark](img/constructors-dark.png)
+| Constructors |
+|:--- |
+| ![constructors-dark](img/constructors-dark.png) |
 
-![components-dark](img/components-dark.png)
+| Components |
+|:--- |
+| ![components-dark](img/components-dark.png) |
 
-![pre-compositions-dark](img/pre-compositions-dark.png)
+| Pre-compositions |
+|:--- |
+| ![pre-compositions-dark](img/pre-compositions-dark.png) |
 
 ### Light theme
 
-![constructors-light](img/constructors-light.png)
+| Constructors |
+|:--- |
+| ![constructors-light](img/constructors-light.png) |
 
-![components-light](img/components-light.png)
+| Components |
+|:--- |
+| ![components-light](img/components-light.png) |
 
-![pre-compositions-light](img/pre-compositions-light.png)
+| Pre-compositions |
+|:--- |
+| ![pre-compositions-light](img/pre-compositions-light.png) |
 
 ## Setup
 Clone this repository or download the zipped file.
