@@ -52,25 +52,25 @@ Libs directory contains the sketch libraries.
 
 | Components |
 |:--- |
-| ![components-dark](img/components-dark.png) |
+| ![components-dark](img/components-dark.svg) |
 
 | Pre-compositions |
 |:--- |
-| ![pre-compositions-dark](img/pre-compositions-dark.png) |
+| ![pre-compositions-dark](img/pre-compositions-dark.svg) |
 
 ### Light theme
 
 | Constructors |
 |:--- |
-| ![constructors-light](img/constructors-light.png) |
+| ![constructors-light](img/constructors-light.svg) |
 
 | Components |
 |:--- |
-| ![components-light](img/components-light.png) |
+| ![components-light](img/components-light.svg) |
 
 | Pre-compositions |
 |:--- |
-| ![pre-compositions-light](img/pre-compositions-light.png) |
+| ![pre-compositions-light](img/pre-compositions-light.svg) |
 
 ## Setup
 Clone this repository or download the zipped file.
