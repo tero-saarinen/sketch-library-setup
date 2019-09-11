@@ -13,7 +13,6 @@ Project is created with:
 * Sketch version: 57.1
 
 ## Content
-Libs directory contains the sketch libraries.
 
 ### Colors
 
@@ -54,6 +53,16 @@ Libs directory contains the sketch libraries.
 | Pre-compositions |
 |:--- |
 | <img src="img/pre-compositions-dark.jpg" width="720" height="249"/> |
+
+---
+
+### Composition
+
+`/composition.sketch`
+
+<img src="img/composition.gif" width="660" height="470"/>
+
+---
 
 ## Setup
 Clone this repository or download the zipped file.
