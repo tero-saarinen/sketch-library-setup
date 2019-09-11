@@ -16,24 +16,34 @@ Project is created with:
 Libs directory contains the sketch libraries.
 
 `libs/library-colors.sketch`
+
 ![library-colors](img/library-colors.png)
 
 `libs/library-icons.sketch`
+
 ![library-icons](img/library-icons.png)
 
 `libs/library-font-system.sketch`
+
 ![fonts-white](img/fonts-white.png)
 ![fonts-gray-swatch3](img/fonts-gray-swatch3.png)
 
 `libs/library-components.sketch`
-- Dark theme
+
+### Dark theme
+
 ![constructors-dark](img/constructors-dark.png)
+
 ![components-dark](img/components-dark.png)
+
 ![pre-compositions-dark](img/pre-compositions-dark.png)
 
-- Light theme
+### Light theme
+
 ![constructors-light](img/constructors-light.png)
+
 ![components-light](img/components-light.png)
+
 ![pre-compositions-light](img/pre-compositions-light.png)
 
 ## Setup
