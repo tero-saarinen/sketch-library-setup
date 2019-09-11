@@ -19,7 +19,7 @@ Libs directory contains the sketch libraries.
 
 `libs/library-colors.sketch`
 
-![library-colors](img/library-colors.png)
+![library-colors](img/library-colors.svg)
 
 ---
 
@@ -27,7 +27,7 @@ Libs directory contains the sketch libraries.
 
 `libs/library-icons.sketch`
 
-![library-icons](img/library-icons.png)
+![library-icons](img/library-icons.svg)
 
 ---
 
@@ -48,7 +48,7 @@ Libs directory contains the sketch libraries.
 
 | Constructors |
 |:--- |
-| ![constructors-dark](img/constructors-dark.png) |
+| ![constructors-dark](img/constructors-dark.svg) |
 
 | Components |
 |:--- |
