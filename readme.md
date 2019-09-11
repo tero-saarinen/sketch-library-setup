@@ -19,7 +19,7 @@ Libs directory contains the sketch libraries.
 
 `libs/library-colors.sketch`
 
-![library-colors](img/library-colors.svg)
+<img src="img/library-colors.jpg" width="390" height="230"/>
 
 ---
 
@@ -27,7 +27,7 @@ Libs directory contains the sketch libraries.
 
 `libs/library-icons.sketch`
 
-![library-icons](img/library-icons.svg)
+<img src="img/library-icons.jpg" width="516" height="82"/>
 
 ---
 
@@ -35,8 +35,7 @@ Libs directory contains the sketch libraries.
 
 `libs/library-font-system.sketch`
 
-![fonts-white](img/fonts-white.png)
-![fonts-gray-swatch3](img/fonts-gray-swatch3.png)
+<img src="img/fonts-white.jpg" width="840" height="213"/>
 
 ---
 
@@ -46,15 +45,15 @@ Libs directory contains the sketch libraries.
 
 | Constructors |
 |:--- |
-| <img src="img/constructors-dark.jpg" width="181" height="78" /> |
+| <img src="img/constructors-dark.jpg" width="181" height="78"/> |
 
 | Components |
 |:--- |
-| ![components-dark](img/components-dark.svg) |
+| <img src="img/components-dark.jpg" width="419" height="154"/> |
 
 | Pre-compositions |
 |:--- |
-| ![pre-compositions-dark](img/pre-compositions-dark.svg) |
+| <img src="img/pre-compositions-dark.jpg" width="720" height="249"/> |
 
 ## Setup
 Clone this repository or download the zipped file.
