@@ -67,6 +67,10 @@ Components are design elements that are meaningful in isolation. For example but
 
 Pre-compositions are collections of constructors and components that form more complex elements that are used repeatedly in compositions.
 
+#### Themes
+
+This file contains dark and light theme for every applicable symbol. The dark variant works as the master symbol for each light variant, providing a single source for controlling the content and layout of the same element. The light variant makes use of color overrides to create the wanted look.
+
 ---
 
 ### Composition
