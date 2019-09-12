@@ -31,7 +31,7 @@ All the design elements are derived from and link back to the color palette. Mak
 
 <img src="img/library-icons.jpg" width="516" height="82"/>
 
-Icons are shapes masking color symbols. This file makes no assumptions on color usage within real context and therefore all the icons default to black. Icons that use more than one color are constructed out of as many dedicated shapes as there are colors.
+Icons are shapes masking color symbols. This file makes no assumptions on color usage within real context and therefore all the icons default to black. Icons that use more than one color are constructed out of as many dedicated shapes as there are needed colors.
 
 ---
 
