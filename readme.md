@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Content](#content)
+* [Workflows](#workflows)
 * [Setup](#setup)
 * [Status](#status)
 
@@ -40,7 +41,7 @@ Icons are shapes masking color symbols. This file makes no assumptions on color 
 
 <img src="img/fonts-white.jpg" width="840" height="213"/>
 
-Every text element used in other `.sketch` files uses a shared text style derived from here. This file contains an artboard for each text color. The respective color symbol is nested on top of each artboard for sampling and applying it for each text instance.
+Text elements used in other `.sketch` files are using a shared text style derived from here. This file contains an artboard for each text color. The respective color symbol is nested on top of each artboard for sampling and applying it for each text instance.
 
 ---
 
@@ -58,7 +59,7 @@ Constructors are elements that often serve no purpose in isolation but are repea
 |:--- |
 | <img src="img/components-dark.jpg" width="419" height="154"/> |
 
-Components are isolated elements that have a clear meaning as standalone elements. For example buttons, text fields, radios and checkboxes fall under this category.
+Components are design elements that are meaningful in isolation. For example buttons, text fields, radios and checkboxes fall under this category.
 
 | Pre-compositions |
 |:--- |
@@ -77,6 +78,10 @@ Pre-compositions are collections of constructors and components that form more c
 Composition presents fully designed static views of how the final product is expected to look.
 
 ---
+
+## Workflows
+
+When designing new views and features, it is better not to constrain yourself to working only with elements that are currently available in your design system. Sketch freely and update your libraries accordingly when reaching clarity on the wanted design solution. All of the library files are meant to be living documents that contain only elements that are actively used in compositions. 
 
 ## Setup
 Clone this repository or download as a zip.
