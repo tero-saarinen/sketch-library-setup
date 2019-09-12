@@ -20,6 +20,8 @@ Project is created with:
 
 <img src="img/library-colors.jpg" width="390" height="230"/>
 
+All the design elements are derived from and link back to the color palette. Making changes here will affect elements in every `.sketch` file belonging to this project, with the exception of fonts. Building everything with nested color symbols ensures full color consistency, makes it possible to update brand colors from a single source and helps creating themes derived from the same palette using symbol overrides.
+
 ---
 
 ### Icons
@@ -28,6 +30,8 @@ Project is created with:
 
 <img src="img/library-icons.jpg" width="516" height="82"/>
 
+Icons are shapes masking color symbols. This file makes no assumptions on color usage within real context and therefore all the icons default to black. Icons that use more than one color are constructed out of as many dedicated shapes as there are colors.
+
 ---
 
 ### Fonts
@@ -35,6 +39,8 @@ Project is created with:
 `libs/library-font-system.sketch`
 
 <img src="img/fonts-white.jpg" width="840" height="213"/>
+
+Every text element used in other `.sketch` files uses a shared text style derived from here. This file contains an artboard for each text color. The respective color symbol is nested on top of each artboard for sampling and applying it for each text instance.
 
 ---
 
@@ -46,13 +52,19 @@ Project is created with:
 |:--- |
 | <img src="img/constructors-dark.jpg" width="181" height="78"/> |
 
+Constructors are elements that often serve no purpose in isolation but are repeatedly used within components and pre-compositions. Constructors are meant to control backgrounds, shapes, shadows etc.
+
 | Components |
 |:--- |
 | <img src="img/components-dark.jpg" width="419" height="154"/> |
 
+Components are isolated elements that have a clear meaning as standalone elements. For example buttons, text fields, radios and checkboxes fall under this category.
+
 | Pre-compositions |
 |:--- |
 | <img src="img/pre-compositions-dark.jpg" width="720" height="249"/> |
+
+Pre-compositions are collections of constructors and components that form more complex elements that are used repeatedly in compositions.
 
 ---
 
@@ -62,10 +74,12 @@ Project is created with:
 
 <img src="img/composition.gif" width="660" height="470"/>
 
+Composition presents fully designed static views of how the final product is expected to look.
+
 ---
 
 ## Setup
-Clone this repository or download the zipped file.
+Clone this repository or download as a zip.
 
 ## Status
 
